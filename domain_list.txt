@@ -1,2 +1,2 @@
-https://vnexpress.net/
-https://news.google.com/
+vnexpress.net
+news.google.com
